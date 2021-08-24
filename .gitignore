@@ -96,3 +96,4 @@ pip-selfcheck.json
 .env
 
 *.ipynb_checkpoints
+mmb/db.sqlite3
